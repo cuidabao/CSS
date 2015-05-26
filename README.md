@@ -2,7 +2,8 @@
 CSS  Resources
 
 ### Basics
-
+- [Nesting Components](http://simurai.com/blog/2015/05/11/nesting-components/) by [@simurai](https://twitter.com/simurai)
+- [Extending Styles](http://philipwalton.com/articles/extending-styles/) by [Philip Walton](http://philipwalton.com/)
 - [The End of Global CSS](https://medium.com/seek-ui-engineering/the-end-of-global-css-90d2a4a06284) by [@Mark Dalgleish](https://medium.com/@markdalgleish)
 - [The At-Rules of CSS](https://css-tricks.com/the-at-rules-of-css/) by @Geoff Graham
 - [ICONS AND TYPE](http://snook.ca/archives/html_and_css/icons-and-type) by [@Jonathan Snook](http://snook.ca/)
@@ -50,6 +51,7 @@ CSS  Resources
 
 ### Animation
 
+- [Making the transition from animating in After Effects to CSS.](https://medium.com/@ryan_brownhill/after-effects-to-css-79225c1d767e) by [@Ryan Brownhill](https://medium.com/@ryan_brownhill)
 - [Guidelines for Animation Timing](http://blog.percolatestudio.com/design/animation-timing-guidelines/) by [@DOMINIC NGUYEN](http://blog.percolatestudio.com/author/dom/)
 - [Touch-friendly Animated Hamburger Icons](http://w3bits.com/animated-hamburger-icons/) by [@Rahul Arora](http://twitter.com/w3bits)——[译文](http://www.w3cplus.com/css3/animated-hamburger-icons.html) by [@晓楷](http://helkyle.com)
 - [WWDC 2015](https://cssanimation.rocks/wwdc15/) by [@cssanimation](https://twitter.com/cssanimation)【已认领】by[晓楷](http://helkyle.com)
