@@ -51,6 +51,7 @@ CSS  Resources
 
 ### Animation
 
+- [THE ULTIMATE GUIDE TO WEB ANIMATION](http://www.webdesignerdepot.com/2015/05/the-ultimate-guide-to-web-animation/) by [@EZEQUIEL BRUNI](http://www.webdesignerdepot.com/author/Ezequiel-Bruni)
 - [Making the transition from animating in After Effects to CSS.](https://medium.com/@ryan_brownhill/after-effects-to-css-79225c1d767e) by [@Ryan Brownhill](https://medium.com/@ryan_brownhill)
 - [Guidelines for Animation Timing](http://blog.percolatestudio.com/design/animation-timing-guidelines/) by [@DOMINIC NGUYEN](http://blog.percolatestudio.com/author/dom/)
 - [Touch-friendly Animated Hamburger Icons](http://w3bits.com/animated-hamburger-icons/) by [@Rahul Arora](http://twitter.com/w3bits)——[译文](http://www.w3cplus.com/css3/animated-hamburger-icons.html) by [@晓楷](http://helkyle.com)
