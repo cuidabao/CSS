@@ -54,7 +54,7 @@ CSS  Resources
 - [Making the transition from animating in After Effects to CSS.](https://medium.com/@ryan_brownhill/after-effects-to-css-79225c1d767e) by [@Ryan Brownhill](https://medium.com/@ryan_brownhill)
 - [Guidelines for Animation Timing](http://blog.percolatestudio.com/design/animation-timing-guidelines/) by [@DOMINIC NGUYEN](http://blog.percolatestudio.com/author/dom/)
 - [Touch-friendly Animated Hamburger Icons](http://w3bits.com/animated-hamburger-icons/) by [@Rahul Arora](http://twitter.com/w3bits)——[译文](http://www.w3cplus.com/css3/animated-hamburger-icons.html) by [@晓楷](http://helkyle.com)
-- [WWDC 2015](https://cssanimation.rocks/wwdc15/) by [@cssanimation](https://twitter.com/cssanimation)【已认领】by[晓楷](http://helkyle.com)
+- [WWDC 2015](https://cssanimation.rocks/wwdc15/) by [@cssanimation](https://twitter.com/cssanimation)——[译文](http://www.w3cplus.com/css3/wwdc15.html) by[晓楷](http://helkyle.com)
 - [Responsive Sprite Animations with ImageMagick and GreenSock](http://www.sitepoint.com/responsive-sprite-animations-imagemagick-greensock/) by [@Tom Bennet](http://www.sitepoint.com/author/tbennet/)
 - [Animating CSS-Only Hamburger Menu Icons](http://speckyboy.com/2015/04/02/animating-css-only-hamburger-menu-icons/) by [@Nick Salloum](http://speckyboy.com/author/nick-salloum/)
 - [In Pieces: A rare specimen of CSS-based animation](http://motionographer.com/2015/03/19/in-pieces-a-rare-specimen-of-css-based-animation/) by [@JUSTIN CONE](http://justincone.com/) [小健已认领]
