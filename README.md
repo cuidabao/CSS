@@ -34,6 +34,7 @@ CSS  Resources
 
 ### CSS3
 
+- [A Close-up Look at the CSS mix-blend-mode Property](http://www.sitepoint.com/close-up-css-mix-blend-mode-property/) by [@Maria Antonietta Perna](http://www.sitepoint.com/author/mperna/)
 - [Creating Responsive Shapes With Clip-Path And Breaking Out Of The Box](http://www.smashingmagazine.com/2015/05/11/creating-responsive-shapes-with-clip-path/) by [@Karen Menezes](http://www.smashingmagazine.com/author/karenmenezes/)——[译文](http://www.w3cplus.com/css3/creating-responsive-shapes-with-clip-path.html) by [@彦子](http://weibo.com/793617505sy)
 - [How to create a CSS3 progress bar](http://www.developerdrive.com/2015/05/how-to-create-a-css3-progress-bar/) by [@ Sam Norton](http://www.developerdrive.com/author/Sam-Norton)——[译文](http://www.w3cplus.com/css3/how-to-create-a-css3-progress-bar.html) by[@lizimeow](https://github.com/lizimeow)
 - [Extending the Color Cascade with the CSS currentColor Variable](http://blogs.adobe.com/dreamweaver/2015/02/extending-the-color-cascade-with-the-css-currentcolor-variable.html) by [@Sara Soueidan](http://blogs.adobe.com/dreamweaver/author/sara-soueidan)——[译文](http://www.w3cplus.com/css3/extending-the-color-cascade-with-the-css-currentcolor-variable.html)  by [@彦子](http://weibo.com/793617505sy)
@@ -51,6 +52,7 @@ CSS  Resources
 
 ### Animation
 
+- [Crafting Easing Curves for User Interfaces](https://medium.com/@ryan_brownhill/crafting-easing-curves-for-user-interfaces-34f39e1b4a43) by [@Ryan Brownhill](https://medium.com/@ryan_brownhill)
 - [THE ULTIMATE GUIDE TO WEB ANIMATION](http://www.webdesignerdepot.com/2015/05/the-ultimate-guide-to-web-animation/) by [@EZEQUIEL BRUNI](http://www.webdesignerdepot.com/author/Ezequiel-Bruni)
 - [Making the transition from animating in After Effects to CSS.](https://medium.com/@ryan_brownhill/after-effects-to-css-79225c1d767e) by [@Ryan Brownhill](https://medium.com/@ryan_brownhill)
 - [Guidelines for Animation Timing](http://blog.percolatestudio.com/design/animation-timing-guidelines/) by [@DOMINIC NGUYEN](http://blog.percolatestudio.com/author/dom/)
