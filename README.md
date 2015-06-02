@@ -52,6 +52,8 @@ CSS  Resources
 
 ### Animation
 
+- [Understanding CSS 3D-Transforms](http://pencilscoop.com/2014/04/understanding-css-3d-transforms) by @Joe Howard
+- [Animating Images With CSS ](http://pencilscoop.com/2014/04/animating-images-with-css-keyframes) by @Joe Howard
 - [Crafting Easing Curves for User Interfaces](https://medium.com/@ryan_brownhill/crafting-easing-curves-for-user-interfaces-34f39e1b4a43) by [@Ryan Brownhill](https://medium.com/@ryan_brownhill)
 - [THE ULTIMATE GUIDE TO WEB ANIMATION](http://www.webdesignerdepot.com/2015/05/the-ultimate-guide-to-web-animation/) by [@EZEQUIEL BRUNI](http://www.webdesignerdepot.com/author/Ezequiel-Bruni)
 - [Making the transition from animating in After Effects to CSS.](https://medium.com/@ryan_brownhill/after-effects-to-css-79225c1d767e) by [@Ryan Brownhill](https://medium.com/@ryan_brownhill)
@@ -71,6 +73,7 @@ CSS  Resources
 
 ### Flexbox
 
+- [Migrating to Flexbox by Cutting the Mustard](http://www.sitepoint.com/migrating-flexbox-cutting-mustard/) by [@Bashkim Isai](http://www.sitepoint.com/author/bashaus/)
 - [A Visual Guide to CSS3 Flexbox Properties](https://scotch.io/tutorials/a-visual-guide-to-css3-flexbox-properties) by [@ Dimitar Stojanov](https://scotch.io/author/dimitar)——[译文](http://www.w3cplus.com/css3/a-visual-guide-to-css3-flexbox-properties.html) by [@大漠](http://www.w3cplus.com)
 - [Harnessing Flexbox For Today’s Web Apps](http://www.smashingmagazine.com/2015/03/02/harnessing-flexbox-for-todays-web-apps/) by [@Karen Menezes](http://www.smashingmagazine.com/author/karenmenezes/)——[译文](http://www.w3cplus.com/css3/harnessing-flexbox-for-todays-web-apps.html) by [@婼籽](http://weibo.com/3315650703/)
 - [Using Flexbox today](http://chriswrightdesign.com/experiments/using-flexbox-today/) by [@Chris Wright](https://github.com/chriswrightdesign)——[译文](http://www.w3cplus.com/css3/using-flexbox-today.html) by [@Blueed](http://weibo.com/blueed)
