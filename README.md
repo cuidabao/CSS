@@ -2,6 +2,7 @@
 CSS  Resources
 
 ### Basics
+
 - [Nesting Components](http://simurai.com/blog/2015/05/11/nesting-components/) by [@simurai](https://twitter.com/simurai)
 - [Extending Styles](http://philipwalton.com/articles/extending-styles/) by [Philip Walton](http://philipwalton.com/)
 - [The End of Global CSS](https://medium.com/seek-ui-engineering/the-end-of-global-css-90d2a4a06284) by [@Mark Dalgleish](https://medium.com/@markdalgleish)
@@ -34,6 +35,7 @@ CSS  Resources
 
 ### CSS3
 
+- [The Making Of “In Pieces”: Designing an Interactive Exhibition With CSS Clip Paths](http://www.smashingmagazine.com/2015/06/02/the-making-of-in-pieces/) by [@Bryan James](http://www.smashingmagazine.com/author/bryanjames/)
 - [A Close-up Look at the CSS mix-blend-mode Property](http://www.sitepoint.com/close-up-css-mix-blend-mode-property/) by [@Maria Antonietta Perna](http://www.sitepoint.com/author/mperna/)
 - [Creating Responsive Shapes With Clip-Path And Breaking Out Of The Box](http://www.smashingmagazine.com/2015/05/11/creating-responsive-shapes-with-clip-path/) by [@Karen Menezes](http://www.smashingmagazine.com/author/karenmenezes/)——[译文](http://www.w3cplus.com/css3/creating-responsive-shapes-with-clip-path.html) by [@彦子](http://weibo.com/793617505sy)
 - [How to create a CSS3 progress bar](http://www.developerdrive.com/2015/05/how-to-create-a-css3-progress-bar/) by [@ Sam Norton](http://www.developerdrive.com/author/Sam-Norton)——[译文](http://www.w3cplus.com/css3/how-to-create-a-css3-progress-bar.html) by[@lizimeow](https://github.com/lizimeow)
