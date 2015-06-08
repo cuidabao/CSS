@@ -3,6 +3,7 @@ CSS  Resources
 
 ### Basics
 
+- [CSS-Only Raindrops on Window Effect](http://blogs.adobe.com/dreamweaver/2015/06/css-only-raindrops-on-window-effect.html) by [@Lucas Bebber](http://blogs.adobe.com/dreamweaver/author/lucas-bebber)
 - [Nesting Components](http://simurai.com/blog/2015/05/11/nesting-components/) by [@simurai](https://twitter.com/simurai)
 - [Extending Styles](http://philipwalton.com/articles/extending-styles/) by [Philip Walton](http://philipwalton.com/)
 - [The End of Global CSS](https://medium.com/seek-ui-engineering/the-end-of-global-css-90d2a4a06284) by [@Mark Dalgleish](https://medium.com/@markdalgleish)
