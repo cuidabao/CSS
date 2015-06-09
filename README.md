@@ -56,6 +56,7 @@ CSS  Resources
 
 ### Animation
 
+- [Practical Techniques On Designing Animation](http://www.smashingmagazine.com/2015/06/08/practical-techniques-on-designing-animation/) by [@Sarah Drasner](http://www.smashingmagazine.com/author/sarahdrasner/)
 - [Understanding CSS 3D-Transforms](http://pencilscoop.com/2014/04/understanding-css-3d-transforms) by @Joe Howard
 - [Animating Images With CSS ](http://pencilscoop.com/2014/04/animating-images-with-css-keyframes) by @Joe Howard
 - [Crafting Easing Curves for User Interfaces](https://medium.com/@ryan_brownhill/crafting-easing-curves-for-user-interfaces-34f39e1b4a43) by [@Ryan Brownhill](https://medium.com/@ryan_brownhill)
