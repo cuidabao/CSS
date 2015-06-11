@@ -37,6 +37,7 @@ CSS  Resources
 
 ### CSS3
 
+- [Understanding the CSS ‘content’ Property](http://www.sitepoint.com/understanding-css-content-property/) by [@Gajendar Singh](http://www.sitepoint.com/author/gsingh/)
 - [The Making Of “In Pieces”: Designing an Interactive Exhibition With CSS Clip Paths](http://www.smashingmagazine.com/2015/06/02/the-making-of-in-pieces/) by [@Bryan James](http://www.smashingmagazine.com/author/bryanjames/)
 - [A Close-up Look at the CSS mix-blend-mode Property](http://www.sitepoint.com/close-up-css-mix-blend-mode-property/) by [@Maria Antonietta Perna](http://www.sitepoint.com/author/mperna/)
 - [Creating Responsive Shapes With Clip-Path And Breaking Out Of The Box](http://www.smashingmagazine.com/2015/05/11/creating-responsive-shapes-with-clip-path/) by [@Karen Menezes](http://www.smashingmagazine.com/author/karenmenezes/)——[译文](http://www.w3cplus.com/css3/creating-responsive-shapes-with-clip-path.html) by [@彦子](http://weibo.com/793617505sy)
