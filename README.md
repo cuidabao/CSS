@@ -39,6 +39,7 @@ CSS  Resources
 
 ### CSS3
 
+- [Understanding CSS Filter Effects](http://www.html5rocks.com/en/tutorials/filters/understanding-css/) by [@Alex Danilo](http://www.html5rocks.com/profiles/#alexdanilo)
 - [Understanding the CSS ‘content’ Property](http://www.sitepoint.com/understanding-css-content-property/) by [@Gajendar Singh](http://www.sitepoint.com/author/gsingh/)
 - [The Making Of “In Pieces”: Designing an Interactive Exhibition With CSS Clip Paths](http://www.smashingmagazine.com/2015/06/02/the-making-of-in-pieces/) by [@Bryan James](http://www.smashingmagazine.com/author/bryanjames/)
 - [A Close-up Look at the CSS mix-blend-mode Property](http://www.sitepoint.com/close-up-css-mix-blend-mode-property/) by [@Maria Antonietta Perna](http://www.sitepoint.com/author/mperna/)
