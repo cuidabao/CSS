@@ -60,6 +60,7 @@ CSS  Resources
 
 ### Animation
 
+- [CSS: Animation Using CSS Transforms](http://www.the-art-of-web.com/css/css-animation/)
 - [Practical Techniques On Designing Animation](http://www.smashingmagazine.com/2015/06/08/practical-techniques-on-designing-animation/) by [@Sarah Drasner](http://www.smashingmagazine.com/author/sarahdrasner/)
 - [Understanding CSS 3D-Transforms](http://pencilscoop.com/2014/04/understanding-css-3d-transforms) by @Joe Howard
 - [Animating Images With CSS ](http://pencilscoop.com/2014/04/animating-images-with-css-keyframes) by @Joe Howard
