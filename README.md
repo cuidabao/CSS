@@ -3,6 +3,7 @@ CSS  Resources
 
 ### Basics
 
+- [A Look at Some CSS Methodologies](http://sixrevisions.com/css/css-methodologies/) by [@Kieran Potts](http://www.kieranpotts.com/)
 - [Accessible Footnotes with CSS](http://www.sitepoint.com/accessible-footnotes-css/) by [@Hugo Giraudel](http://www.sitepoint.com/author/hgiraudel/)
 - [Checkbox Trickery with CSS](http://codersblock.com/blog/checkbox-trickery-with-css/) by [@Will](https://twitter.com/lonekorean)
 - [CSS Layers](https://medium.com/@cathy_dutton/css-layers-afff4ae66649) by [@cathy dutton](https://medium.com/@cathy_dutton)（@一半一半已认领）
