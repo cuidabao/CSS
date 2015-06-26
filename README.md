@@ -3,6 +3,7 @@ CSS  Resources
 
 ### Basics
 
+- [Contextual Styling: UI Components, Nesting, and Implementation Detail](http://csswizardry.com/2015/06/contextual-styling-ui-components-nesting-and-implementation-detail/) by [@Harry](http://twitter.com/csswizardry)
 - [A Look at Some CSS Methodologies](http://sixrevisions.com/css/css-methodologies/) by [@Kieran Potts](http://www.kieranpotts.com/)
 - [Accessible Footnotes with CSS](http://www.sitepoint.com/accessible-footnotes-css/) by [@Hugo Giraudel](http://www.sitepoint.com/author/hgiraudel/)
 - [Checkbox Trickery with CSS](http://codersblock.com/blog/checkbox-trickery-with-css/) by [@Will](https://twitter.com/lonekorean)
