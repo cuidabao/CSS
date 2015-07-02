@@ -90,6 +90,7 @@ CSS  Resources
 
 ### Flexbox
 
+- [nderstanding CSS3 Flexbox for Responsive Design](http://marketblog.envato.com/learn-something-new/css3-flexbox/) by [@Jake Rocheleau](http://marketblog.envato.com/author/jake-rocheleau/)
 - [Migrating to Flexbox by Cutting the Mustard](http://www.sitepoint.com/migrating-flexbox-cutting-mustard/) by [@Bashkim Isai](http://www.sitepoint.com/author/bashaus/)
 - [A Visual Guide to CSS3 Flexbox Properties](https://scotch.io/tutorials/a-visual-guide-to-css3-flexbox-properties) by [@ Dimitar Stojanov](https://scotch.io/author/dimitar)——[译文](http://www.w3cplus.com/css3/a-visual-guide-to-css3-flexbox-properties.html) by [@大漠](http://www.w3cplus.com)
 - [Harnessing Flexbox For Today’s Web Apps](http://www.smashingmagazine.com/2015/03/02/harnessing-flexbox-for-todays-web-apps/) by [@Karen Menezes](http://www.smashingmagazine.com/author/karenmenezes/)——[译文](http://www.w3cplus.com/css3/harnessing-flexbox-for-todays-web-apps.html) by [@婼籽](http://weibo.com/3315650703/)
