@@ -46,6 +46,7 @@ CSS  Resources
 
 ### CSS3
 
+- [Fixing Typography Inside of 2-D CSS Transforms](http://www.useragentman.com/blog/2014/05/04/fixing-typography-inside-of-2-d-css-transforms/) by [@Ramajero Argonauta](http://ksesocss.blogspot.com/)
 - [Understanding CSS Filter Effects](http://www.html5rocks.com/en/tutorials/filters/understanding-css/) by [@Alex Danilo](http://www.html5rocks.com/profiles/#alexdanilo)
 - [Understanding the CSS ‘content’ Property](http://www.sitepoint.com/understanding-css-content-property/) by [@Gajendar Singh](http://www.sitepoint.com/author/gsingh/)
 - [The Making Of “In Pieces”: Designing an Interactive Exhibition With CSS Clip Paths](http://www.smashingmagazine.com/2015/06/02/the-making-of-in-pieces/) by [@Bryan James](http://www.smashingmagazine.com/author/bryanjames/)
