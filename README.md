@@ -67,6 +67,7 @@ CSS  Resources
 
 ### Animation
 
+- [Performant CSS Animations: Netflix Case Study](http://eng.wealthfront.com/2015/06/implementing-netflix-redesign.html) by [@Eli White](http://www.blogger.com/profile/11365234386587404375)
 - [CSS: Animation Using CSS Transforms](http://www.the-art-of-web.com/css/css-animation/)
 - [Practical Techniques On Designing Animation](http://www.smashingmagazine.com/2015/06/08/practical-techniques-on-designing-animation/) by [@Sarah Drasner](http://www.smashingmagazine.com/author/sarahdrasner/)
 - [Understanding CSS 3D-Transforms](http://pencilscoop.com/2014/04/understanding-css-3d-transforms) by @Joe Howard
